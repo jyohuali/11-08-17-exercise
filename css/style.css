@@ -4,6 +4,23 @@
   padding: 0;
 }
 
-html{
-  background: pink;
+
+.main-nav{
+  display: flex;
+  justify-content: space-around;
+  background: #e6f2ff;
+  padding: 15px 5px;
+}
+.main-nav a {
+  text-decoration: none;
+  color: #0059b3;
+  font-size:
+}
+.main-nav-list{
+  display: flex;
+  list-style: none;
+}
+
+.main-nav-list li {
+  margin: 0 10px;
 }
